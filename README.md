@@ -1,5 +1,7 @@
 # Deep Fake Faces detection using ResNetInception and Transformers
 
+Using pretrained ResNetInception and Transformers to identify deepfake face images and locate the area of concentration.
+
 # Usage
 
 ```
