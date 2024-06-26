@@ -10,3 +10,5 @@ pip install -r requirements.txt
 python deepfakedetect.py
 ```
 
+Open the link on the browser to open the app
+
