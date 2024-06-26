@@ -1,0 +1,4 @@
+transformers
+gradio
+facenet-pytorch 
+grad-cam
